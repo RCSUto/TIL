@@ -287,7 +287,7 @@ public class BoardDTO {
 
 ---
 
-## 전체 정리
+## 정리
 
 Spring MVC  
 -> Controller / Model / View 구조  
