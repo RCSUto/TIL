@@ -52,8 +52,10 @@ model.addAttribute("list", boardList);
 
 + JSP
 
-예시  
+ex)
+```
 board.html
+```
 
 ---
 
